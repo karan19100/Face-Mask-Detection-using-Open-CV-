@@ -1,6 +1,6 @@
 # Face-Mask-Detection-uisng-Open-CV-
 
-![](Images/application.png)
+<img src="Images/applicaton.png" width="270" >
 
 Our motto is to detect facial mask monitoring using Open CV and Python to stop the flow of corona virus.
 
@@ -27,7 +27,7 @@ Many Organizations are making it compulsory to follow social distancing and wear
 
 4.Detect face using ‘detectMultiScale’ function.
 
-![](Images/face%20and%20mouth%20detection.PNG)
+<img src="Images/face%20and%20mouth%20detection.PNG" width="350" >
 
 # Step 2: Identify Person is using Mask or not.
 
@@ -38,6 +38,15 @@ As shown in code, there are three rectangle objects:
 2.‘Black & White’ image face rectangle.
 
 3.‘Gray’ image Mouth rectangle.
+
+
+# When Mass Detected :- 
+
+<img src="Images/p1_final.PNG" width="350" >
+
+# When Mass not Detected 
+
+<img src="Images/p2_final.PNG" width="350" >
 
 
 
