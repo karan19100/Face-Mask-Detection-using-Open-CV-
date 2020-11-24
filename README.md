@@ -14,7 +14,7 @@ Many Organizations are making it compulsory to follow social distancing and wear
 
 # Step 1: Identify Face and Mouth
 
-# Steps for Face Prediction using Python and OpenCV are:
+ Steps for Face Prediction using Python and OpenCV are:
 
 1.Create HAAR Cascade object using ‘CascadeClassifier’ function and ‘haarcascade_frontalface_default.xml’.
 
@@ -26,7 +26,7 @@ Many Organizations are making it compulsory to follow social distancing and wear
 
 # Step 2: Identify Person is using Mask or not.
 
-# As shown in code, there are three rectangle objects:
+As shown in code, there are three rectangle objects:
 
 1.‘Gray’ image face rectangle.
 
