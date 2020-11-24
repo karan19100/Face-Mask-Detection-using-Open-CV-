@@ -1,4 +1,5 @@
 # Face-Mask-Detection-uisng-Open-CV-
+
 our motto is to detect facial mask monitoring using Open CV and Python to stop the flow of corona virus.
 
 # Introduction :- 
