@@ -27,6 +27,8 @@ Many Organizations are making it compulsory to follow social distancing and wear
 
 4.Detect face using ‘detectMultiScale’ function.
 
+![](Images/face%20and%20mouth%20detection.PNG.png)
+
 # Step 2: Identify Person is using Mask or not.
 
 As shown in code, there are three rectangle objects:
