@@ -48,6 +48,12 @@ As shown in code, there are three rectangle objects:
 
 <img src="Images/p2_final.PNG" width="350" >
 
+# Mass Detection Criteria 
+
+Based on number of rectangles and rectangle position of mouth and face, we can create rule to detect mask.
+Following truth table will provide correct condition of with mask/ without mask.
+
+<img src="Images/face_condition.PNG" width="550" >
 
 
 
