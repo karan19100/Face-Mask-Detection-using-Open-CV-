@@ -56,6 +56,8 @@ Following truth table will provide correct condition of with mask/ without mask.
 <img src="Images/face_condition.PNG" width="550" >
 
 
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [Rhyme Risi](https://www.linkedin.com/in/rhyme-risi/) 
+
 
 
 
